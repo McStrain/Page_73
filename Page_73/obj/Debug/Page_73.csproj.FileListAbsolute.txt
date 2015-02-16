@@ -1,0 +1,13 @@
+c:\users\craig\documents\visual studio 2013\Projects\Page_73\Page_73\bin\Debug\Page_73.exe.config
+c:\users\craig\documents\visual studio 2013\Projects\Page_73\Page_73\obj\Debug\Page_73.csprojResolveAssemblyReference.cache
+c:\users\craig\documents\visual studio 2013\Projects\Page_73\Page_73\obj\Debug\MainWindow.baml
+c:\users\craig\documents\visual studio 2013\Projects\Page_73\Page_73\obj\Debug\MainWindow.g.cs
+c:\users\craig\documents\visual studio 2013\Projects\Page_73\Page_73\obj\Debug\App.g.cs
+c:\users\craig\documents\visual studio 2013\Projects\Page_73\Page_73\obj\Debug\Page_73_MarkupCompile.cache
+c:\users\craig\documents\visual studio 2013\Projects\Page_73\Page_73\obj\Debug\Page_73.g.resources
+c:\users\craig\documents\visual studio 2013\Projects\Page_73\Page_73\obj\Debug\Page_73.Properties.Resources.resources
+c:\users\craig\documents\visual studio 2013\Projects\Page_73\Page_73\obj\Debug\Page_73.csproj.GenerateResource.Cache
+c:\users\craig\documents\visual studio 2013\Projects\Page_73\Page_73\bin\Debug\Page_73.exe
+c:\users\craig\documents\visual studio 2013\Projects\Page_73\Page_73\bin\Debug\Page_73.pdb
+c:\users\craig\documents\visual studio 2013\Projects\Page_73\Page_73\obj\Debug\Page_73.exe
+c:\users\craig\documents\visual studio 2013\Projects\Page_73\Page_73\obj\Debug\Page_73.pdb
